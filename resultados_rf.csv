@@ -1,2 +1,4 @@
-Modelo,Train Accuracy,Val Accuracy,Test Accuracy
-rf,0.96875,0.9503105590062112,0.9071207430340558
+Dataset,Accuracy,Precision,Recall,F1-Score,Modelo
+Train,0.969,0.969,0.969,0.969,rf
+Validation,0.95,0.952,0.95,0.95,rf
+Test,0.907,0.91,0.907,0.904,rf

@@ -1,2 +1,4 @@
-Modelo,Train Accuracy,Val Accuracy,Test Accuracy
-DNN,0.8902925252914429,0.7732919454574585,0.7987616062164307
+Dataset,Accuracy,Precision,Recall,F1-Score,Modelo
+Train,0.89,0.89,0.89,0.888,DNN
+Validation,0.773,0.781,0.773,0.767,DNN
+Test,0.799,0.794,0.799,0.795,DNN
