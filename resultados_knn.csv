@@ -1,0 +1,2 @@
+Modelo,Train Accuracy,Val Accuracy,Test Accuracy
+kNN,0.9667553191489362,0.8571428571428571,0.8978328173374613
